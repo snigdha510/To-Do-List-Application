@@ -19,7 +19,7 @@ This is a simple To-Do list application built with Spring Boot (Java) for the ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/snigdha510/To-Do-List-Application.git
 2. For running the backend
    ```bash
    cd backend
