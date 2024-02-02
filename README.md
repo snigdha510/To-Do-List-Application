@@ -21,10 +21,10 @@ This is a simple To-Do list application built with Spring Boot (Java) for the ba
    ```bash
    git clone https://github.com/your-username/todo-app.git
 2. For running the backend
-```bash
-cd backend
-mvn spring-boot: run
-```
+   ```bash
+   cd backend
+   mvn spring-boot: run
+   ```
 3. For running the frontend
    ```bash
    cd frontend
