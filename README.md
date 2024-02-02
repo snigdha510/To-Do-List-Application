@@ -34,6 +34,6 @@ This is a simple To-Do list application built with Spring Boot (Java) for the ba
    ```
 4. Open
    ```bash
-   https://localhost:3000
+   http://localhost:3000
    ```
    on your system to see the application running.
